@@ -4,8 +4,9 @@
 ![image](https://github.com/user-attachments/assets/71a1713d-80d3-4920-a51c-6714eb9aa097)
 ![image](https://github.com/user-attachments/assets/12c608cb-da07-427b-841b-28e47e51c909)
 ![image](https://github.com/user-attachments/assets/f2834201-4731-43e4-b0b5-2f5f36ed7a1e)
-  Update 1.0
-Обновление демеи сайта много чего добавлено и исправленно,в особенности дизайн и некоторых функций.
+  *Update 1.0
+Обновление демки сайта, много чего добавлено и исправленно,в особенности дизайн и некоторых функций.
+
 -Шапка сайта стала статичной,что очень удобно и практично
 ![image](https://github.com/user-attachments/assets/04c87a25-d543-4db4-ba05-38c55b28a12c)
 -Описание оставил таким же, по моему мнению оно и так хорошее
