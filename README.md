@@ -17,4 +17,7 @@
 ![image](https://github.com/user-attachments/assets/5be0aee6-7544-45c9-a9ba-30ddf9308398)
 -Поменялся раздел цен, стиль стал удобнее и современнее
 ![image](https://github.com/user-attachments/assets/ce7829d5-f943-4df4-9464-5962e195a85b)
-
+  *Update 1.1
+  Обновление раздела "Price"
+![image](https://github.com/user-attachments/assets/a9bea523-2a04-4e9d-a09b-7fddf9b86fdb)
+-Добавлена переферия и хар-ки компьютеров и не только 
