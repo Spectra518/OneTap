@@ -21,6 +21,8 @@
   Обновление раздела "Price"
 ![image](https://github.com/user-attachments/assets/a9bea523-2a04-4e9d-a09b-7fddf9b86fdb)
 -Добавлена переферия и хар-ки компьютеров и не только 
+  
+  
   *Update 1.2 
   Изменение приветсвенного экрана 
 ![image](https://github.com/user-attachments/assets/4b884d8b-7012-4945-b26c-308fba4a2fa4)
